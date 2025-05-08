@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio de sesión de Antonio Ernesto Pliego Montalvo</title>
+    <title>Inicio de sesión</title>
     <link rel="stylesheet" href="css/bootstrap.css" />
     <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
     <script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
